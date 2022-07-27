@@ -9,7 +9,7 @@
   font-family: 'COCOGOOSE', sans-serif;
 }
 
-/* main program styling starts here */
+/* program styling starts here */
 
 .program {
   padding: 20px;
@@ -100,6 +100,8 @@
   display: none;
 }
 
+/* Speakers styling starts here */
+
 .speakers {
   margin: 40px;
 }
@@ -155,6 +157,8 @@
 .hide-show-speaker {
   display: none;
 }
+
+/* Speakers styling ends here */
 
 .btn {
   width: 100%;
