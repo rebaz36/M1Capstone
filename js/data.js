@@ -2,14 +2,14 @@ const projectDatas = [
   {
     featuredImage: './assets/images/speakers/speaker-1.jpg',
     name: 'Sara Ahmed',
-    qualification: 'Content Writer, University of Lagos',
-    description: 'Fatiu is a content creator, who lectures in the university and also in high school.',
+    qualification: 'Content Writer, University of UOS',
+    description: 'Sara is a content creator, who lectures in the university and high school.',
   },
   {
     featuredImage: './assets/images/speakers/speaker-2.jpeg',
-    name: 'Victor Okoroji',
-    qualification: 'President, Nigeria Union of Teachers',
-    description: 'Victor is a computer teacher in Roemichs college who enjoys building young ones in tech.',
+    name: 'Yara alasraad',
+    qualification: 'President, KRG Union of Teachers',
+    description: 'YARA is a computer teacher in Erbil college who enjoys building young ones in tech.',
   },
   {
     featuredImage: './assets/images/speakers/speaker-3.jpg',
@@ -19,21 +19,21 @@ const projectDatas = [
   },
   {
     featuredImage: './assets/images/speakers/speaker-4.jpg',
-    name: 'Pamela Odeh',
-    qualification: 'Product Manager, TIIDELab Initiative',
+    name: 'payman hadi',
+    qualification: 'Product Manager, 51Lab Initiative',
     description: 'She has involved herself in sponsoring tech fellowships to train young aspiring developers.',
   },
   {
     featuredImage: './assets/images/speakers/speaker-5.jpeg',
-    name: 'Christopher Abraham',
-    qualification: 'DevOps Engineer, K-Solutions limited',
+    name: 'Zahraa Abraham',
+    qualification: 'DevOps Engineer, Awrosoft limited',
     description: 'A professional software enginner with numerous experiences in building amazing products.',
   },
   {
     featuredImage: './assets/images/speakers/speaker-6.jpg',
-    name: 'Adeyemi Buhari',
-    qualification: 'Founder, NovuStack',
-    description: 'Buhari helped introduce innovate for Africa, giving enabling environment to young developer to showcase there skills in engineering technology.',
+    name: 'Deniz Buhari',
+    qualification: 'Founder, 51Lanb',
+    description: 'Deniz helped introduce innovate for Iraqs, giving enabling environment to young developer to showcase there skills in engineering technology.',
   },
 ];
 
