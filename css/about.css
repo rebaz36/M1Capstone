@@ -1,0 +1,164 @@
+/* intro Section starts here */
+.about-intro {
+  text-align: center;
+}
+
+.intro-description {
+  line-height: 24px;
+  background-color: var(--white);
+  padding: 15px;
+  margin: 30px 0;
+}
+
+.about-intro a {
+  color: var(--black);
+  text-decoration: underline;
+  display: block;
+  font-weight: 900;
+  padding: 10px;
+}
+
+/* intro Section ends here */
+
+/* Conference Section starts here */
+
+.conference-logo {
+  text-align: center;
+  padding: 20px;
+}
+
+.conference-title,
+.event-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 40px;
+}
+
+.conference-title span,
+.event-title span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2px;
+  width: 50px;
+  background-color: var(--orange);
+}
+
+.conference-title h2 {
+  padding: 20px;
+  font-size: 32px;
+}
+
+.conference-logo p {
+  line-height: 24px;
+  text-align: center;
+}
+
+.logo-img {
+  height: 200px;
+  border: 2px solid var(--gray);
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+  align-items: center;
+}
+
+.logo-img h2 {
+  line-height: 24px;
+  font-family: 'COCOGOOSE', sans-serif;
+}
+
+.small {
+  display: block;
+  font-size: 16px;
+  color: var(--gray);
+}
+
+/* End of Conference Section */
+
+/* events Section starts here */
+
+.past-events {
+  border-top: 1px solid var(--gray);
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.past-events p {
+  margin: 20px;
+}
+
+.events {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.event {
+  position: relative;
+}
+
+.event-description {
+  position: absolute;
+  top: 70px;
+  left: 70px;
+  background: none;
+  font-family: 'COCOGOOSE', sans-serif;
+  color: var(--white);
+}
+
+.event img {
+  filter: hue-rotate(50deg);
+  width: 375px;
+  height: 200px;
+}
+
+.event img:hover {
+  filter: opacity(50%);
+}
+
+/* End of events Section */
+
+/* Footer Section starts here */
+
+.footer {
+  background-color: var(--black);
+  margin-top: 50px;
+  color: var(--white);
+}
+
+/* Footer Section ends here */
+
+@media only screen and (min-width: 768px) {
+  .conference-logo {
+    padding: 0;
+  }
+
+  .conference-logo h2 {
+    padding: 0;
+  }
+
+  .conference-logo p {
+    width: 50%;
+    margin: auto;
+    line-height: 24px;
+    text-align: center;
+  }
+
+  .logo-img {
+    width: 40%;
+    margin: 40px auto;
+  }
+
+  .events {
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 70px;
+  }
+}
