@@ -13,7 +13,7 @@
 
 .program {
   padding: 20px;
-  background: url(../assets/images/Partners.jpg);
+  background: url('../assets/images/backgrounds/Partners.jpg');
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -128,7 +128,7 @@
 }
 
 .speaker-bg {
-  background: url('../assets/images/transparent.jpeg') 0 0 no-repeat;
+  background: url('../assets/images/backgrounds/transparent.jpeg') 0 0 no-repeat;
   background-size: 100%;
   width: 80px;
   height: 70px;
