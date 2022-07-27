@@ -1,36 +1,36 @@
 const projectDatas = [
   {
-    featuredImage: './assets/images/speaker-1.jpg',
+    featuredImage: './assets/images/speakers/speaker-1.jpg',
     name: 'Sara Ahmed',
     qualification: 'Content Writer, University of Lagos',
     description: 'Fatiu is a content creator, who lectures in the university and also in high school.',
   },
   {
-    featuredImage: './assets/images/speaker-2.jpg',
+    featuredImage: './assets/images/speakers/speaker-2.jpeg',
     name: 'Victor Okoroji',
     qualification: 'President, Nigeria Union of Teachers',
     description: 'Victor is a computer teacher in Roemichs college who enjoys building young ones in tech.',
   },
   {
-    featuredImage: './assets/images/speaker-3.jpg',
+    featuredImage: './assets/images/speakers/speaker-3.jpg',
     name: 'Musa Opaluwa',
     qualification: 'Executive Director of Tech specialist',
     description: 'Musa founded a fellowship with the sole purpose of training aspiring software developers and easing their journey into software development.',
   },
   {
-    featuredImage: './assets/images/speaker-4.jpg',
+    featuredImage: './assets/images/speakers/speaker-4.jpg',
     name: 'Pamela Odeh',
     qualification: 'Product Manager, TIIDELab Initiative',
     description: 'She has involved herself in sponsoring tech fellowships to train young aspiring developers.',
   },
   {
-    featuredImage: './assets/images/speaker-5.jpg',
+    featuredImage: './assets/images/speakers/speaker-5.jpeg',
     name: 'Christopher Abraham',
     qualification: 'DevOps Engineer, K-Solutions limited',
     description: 'A professional software enginner with numerous experiences in building amazing products.',
   },
   {
-    featuredImage: './assets/images/speaker-6.jpg',
+    featuredImage: './assets/images/speakers/speaker-6.jpg',
     name: 'Adeyemi Buhari',
     qualification: 'Founder, NovuStack',
     description: 'Buhari helped introduce innovate for Africa, giving enabling environment to young developer to showcase there skills in engineering technology.',
